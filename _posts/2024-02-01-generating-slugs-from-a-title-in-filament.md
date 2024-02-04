@@ -1,7 +1,7 @@
 ---
 title: Generating Slugs from a Title in Filament
 author: bo3bdo
-date: 2020-03-01 11:33:00 +0800
+date: 2024-03-01 11:33:00 +0800
 categories: [Filament, Laravel]
 tags: [filament]
 pin: true
