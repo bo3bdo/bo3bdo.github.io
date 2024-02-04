@@ -6,7 +6,7 @@ categories: [Filament, Laravel]
 tags: [filament]
 pin: true
 image:
-  path: filament-slugs-featured.webp
+  path: /assets/img/filament-slugs-featured.webp
 ---
 
 # Generating Slugs from a Title in Filament
