@@ -1,7 +1,7 @@
 ---
 title: PowerShell Prompt with Oh My Posh and the Windows Terminal
 author: bo3bdo
-date: 2020-03-01 11:33:00 +0800
+date: 2020-02-01 11:33:00 +0800
 categories: [Windows, PowerShell]
 tags: [powershell, oh-my-posh, windows-terminal]
 pin: false
