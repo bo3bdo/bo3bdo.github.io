@@ -1,12 +1,10 @@
 ---
 title: Text and Typography
-author: cotes
+author: hamad
 date: 2024-03-01 11:33:00 +0800
 categories: [Filament, Laravel]
 tags: [filament]
 pin: true
-math: true
-mermaid: true
 image:
   path: filament-slugs-featured.webp
 ---
