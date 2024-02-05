@@ -1,12 +1,10 @@
 ---
 title: Useful Tips And Tricks for Laravel
 author: bo3bdo
-date: 2024-02-05 11:33:00 +0800
+date: 2024-02-04 11:33:00 +0800
 categories: [Laravel, Tutorial]
 tags: [laravel, tutorial]
-pin: false
-math: false
-mermaid: false
+
 image:
   path: assets/img/50616.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
