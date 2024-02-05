@@ -2,7 +2,7 @@
 title: Customize the Favicon
 author: bo3bdo
 date: 2024-02-03 00:34:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Tutorial]
 tags: [favicon]
 ---
 
