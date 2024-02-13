@@ -89,10 +89,7 @@ Windows with PHP via WSL (Update YourUsername with your username):
 ```
 
 
-
-
-{% include embed/{youtube}.html id='{I1gugtGN07Y}' %}
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/I1gugtGN07Y/0.jpg)](http://www.youtube.com/watch?v=I1gugtGN07Y)
 
 ## Optional: Make PHP globally available
 The above setting will make it so that VSCode can find PHP on your system, but PHP might still not be available in command line. To make PHP globally available, update your computer’s PATH variable adding one of the above paths so the php command is available globally on your computer. Once you do that, you don’t have to make specific setting changes in VSCode to tell it where PHP is. For instructions on updating your PATH variable, check out one of the following guides:
