@@ -6,7 +6,7 @@ categories: [VSCode]
 tags: [VSCode, PHP-CS-Fixer, PHP]
 pin: false
 image:
-  path: /assets/img/filament-slugs-featured.webp
+  path: https://s3.amazonaws.com/making-the-internet/php-command-not-found@2x.png
 ---
 
 # php-cs-fixer
