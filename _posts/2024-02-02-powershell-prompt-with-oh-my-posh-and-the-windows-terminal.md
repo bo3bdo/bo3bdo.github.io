@@ -48,6 +48,9 @@ oh-my-posh init pwsh | Invoke-Expression
 Is your prompt not extra enough? That's because your directory listing needs color AND cool icons!
 
 ```powershell
+Install-Module PSReadLine -AllowPrerelease -Force
+```
+```powershell
 Install-Module -Name Terminal-Icons -Repository PSGallery
 ```
 
