@@ -11,8 +11,6 @@ image:
 
 ## zoxide is a smarter cd command, inspired by z and autojump.
 
-![img](https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp)
-
 It remembers which directories you use most frequently, so you can "jump" to them in just a few keystrokes.
 
 zoxide works on all major shells.
@@ -56,8 +54,6 @@ Invoke-Expression (& {
 ## Cheat Sheet
 
 zoxide is a smarter cd command for your terminal. It keeps track of the directories you visit, so that you can switch to them using just a few keystrokes.
-
-![img](https://github.com/ajeetdsouza/zoxide/raw/main/contrib/tutorial.webp)
 
 ## Usage
 
