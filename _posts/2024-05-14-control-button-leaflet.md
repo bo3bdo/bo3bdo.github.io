@@ -60,6 +60,6 @@ map.addControl(new customControl());
 
 If you are looking for more advanced solution, you can use Leaflet EasyButton plugin. It is very easy to use and provides a lot of options. You can find it here:
 
-![alt text](image.png)
+![alt text](/assets/img/image.png)
 
 https://github.com/CliffCloud/Leaflet.EasyButton
